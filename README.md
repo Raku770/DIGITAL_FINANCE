@@ -4,7 +4,6 @@ An intelligent, multilingual AI assistant that helps users understand key financ
 
 ![AI](https://github.com/user-attachments/assets/745039ed-6e6e-493f-b3a3-eb34cfba9f21)
 
-
 ---
 
 ## 📌 Problem Statement
@@ -142,8 +141,7 @@ Build an AI-powered assistant using IBM Granite and RAG that retrieves trusted f
 
 ## 📄 License
 
-This project is licensed under the MIT License
-
+This project is licensed under the [MIT License](./LICENSE)
 
 ---
 
@@ -153,6 +151,4 @@ This project is licensed under the MIT License
 
 ---
 
-## ✅ Final Note
-
-🚀 *An AI-powered solution by Rakesh Patil, developed during the IBM SkillsBuild for Academia Internship 2025.*
+🚀 *An AI-powered solution by **Rakesh Patil**, developed during the **IBM SkillsBuild for Academia Internship 2025**
