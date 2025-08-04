@@ -145,7 +145,6 @@ Build an AI-powered assistant using IBM Granite and RAG that retrieves trusted f
 This project is licensed under the MIT License
 
 
-
 ---
 
 ## 👤 Connect with Me
